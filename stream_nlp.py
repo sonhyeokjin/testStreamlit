@@ -4,7 +4,6 @@
 import streamlit as st
 
 # 시각화 패키지
-import matplotlib.pyplot as plt
 import matplotlib
 
 matplotlib.use("Agg")
