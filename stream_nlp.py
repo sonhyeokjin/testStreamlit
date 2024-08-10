@@ -6,7 +6,7 @@ import streamlit as st
 # 시각화 패키지
 import matplotlib
 
-matplotlib.use("Agg")
+#matplotlib.use("Agg")
 
 # 자연어 처리와 관련된 패키지
 from wordcloud import WordCloud
